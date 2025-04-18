@@ -29,5 +29,11 @@ public partial class User
 
     public string? NumberPassport { get; set; }
 
+    public byte[]? Image { get; set; }
+
+    public string? Token { get; set; }
+
+    public DateTime? TokenExpierTime { get; set; }
+
     public virtual ICollection<Ticket> Tickets { get; set; } = new List<Ticket>();
 }

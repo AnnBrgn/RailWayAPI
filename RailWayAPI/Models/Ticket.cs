@@ -25,7 +25,5 @@ public partial class Ticket
 
     public virtual Route? IdRouteNavigation { get; set; }
 
-    public virtual Train? IdTrainNavigation { get; set; }
-
     public virtual User? IdUserNavigation { get; set; }
 }

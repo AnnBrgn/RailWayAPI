@@ -1,12 +1,319 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PPPOE252110\\source\\repos\\RailWayAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\classesdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\classesdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\classesdto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\classesdto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\models\\railwaysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\models\\railwaysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\models\\crossstationroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\models\\crossstationroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\crossstationroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\crossstationroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\RailWaySystemContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RailWayAPI\\RailWaySystemContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|c:\\users\\best pc\\desktop\\railwayapi\\railwayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61FF839A-5246-4A59-B3ED-C2350E15BB38}|RailWayAPI\\RailWayAPI.csproj|solutionrelative:railwayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RailWaySystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\RailWaySystemContext.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\RailWaySystemContext.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\RailWaySystemContext.cs",
+              "RelativeToolTip": "RailWayAPI\\RailWaySystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:31:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RailWayAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:04:15.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrossStationRoute.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\CrossStationRoute.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Models\\CrossStationRoute.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\CrossStationRoute.cs",
+              "RelativeToolTip": "RailWayAPI\\Models\\CrossStationRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:57:27.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\ClassesDTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\ClassesDTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\ClassesDTO\\UserDTO.cs",
+              "RelativeToolTip": "RailWayAPI\\ClassesDTO\\UserDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:14:43.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "RailWayAPI\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:03:39.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrossStationRoute.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\CrossStationRoute.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\CrossStationRoute.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\CrossStationRoute.cs",
+              "RelativeToolTip": "RailWayAPI\\CrossStationRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:06:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Models\\Station.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\Station.cs",
+              "RelativeToolTip": "RailWayAPI\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:06:27.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "RailWayAPI\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:57:26.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RailWayAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\appsettings.json",
+              "RelativeToolTip": "RailWayAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T05:15:31.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Models\\Train.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\Train.cs",
+              "RelativeToolTip": "RailWayAPI\\Models\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:09:02.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RailWayAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:03:22.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Program.cs",
+              "RelativeToolTip": "RailWayAPI\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:03:18.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "RailWayAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:03:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Utils\\Utils.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Utils\\Utils.cs",
+              "RelativeToolTip": "RailWayAPI\\Utils\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:18:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\ClassesDTO\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\ClassesDTO\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\ClassesDTO\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "RailWayAPI\\ClassesDTO\\UserRegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:33:58.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\User.cs",
+              "RelativeToolTip": "RailWayAPI\\Models\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA7wAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:40:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RailWaySystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\RailWaySystemContext.cs",
+              "RelativeDocumentMoniker": "RailWayAPI\\Models\\RailWaySystemContext.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayAPI\\RailWayAPI\\Models\\RailWaySystemContext.cs",
+              "RelativeToolTip": "RailWayAPI\\Models\\RailWaySystemContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:34:45.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
